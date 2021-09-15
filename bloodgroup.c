@@ -8,7 +8,7 @@ void main()
   printf("%d", j);
   do
   {
-    printf("What is your Name? ");
+    printf("What is your father Name? ");
     scanf("%s", Name);
     do
     {
@@ -47,5 +47,5 @@ void main()
     printf("\nContinue (YES for Yes)? ");
     scanf("%s", answer);
   } while (strcmp(answer, "YES") == 0);
-  printf("Goodbye\n");
+  printf("Bye Bye\n");
 }
