@@ -49,4 +49,5 @@ void main()
   } while (strcmp(answer, "YES") == 0);
   printf("Moi Moi\n");
   printf("Bye Bye\n");
+  printf("THX\n");
 }
