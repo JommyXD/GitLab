@@ -8,7 +8,7 @@ void main()
   printf("%d", j);
   do
   {
-    printf("What is your mother Name? ");
+    printf("What is your parent Name? ");
     scanf("%s", Name);
     do
     {
@@ -48,4 +48,5 @@ void main()
     scanf("%s", answer);
   } while (strcmp(answer, "YES") == 0);
   printf("Moi Moi\n");
+  printf("Bye Bye\n");
 }
